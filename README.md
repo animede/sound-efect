@@ -71,6 +71,8 @@ docs/DESIGN.md  API契約
 
 ## ライセンス
 
+本リポジトリのソースコードは [Apache License 2.0](LICENSE) で提供します(著作権者: © 2026 YUZUKI (animede)、[NOTICE](NOTICE) 参照)。
+
 本アプリは音声生成に [Stability AI](https://stability.ai) の Stable Audio 3 Small SFX モデルを使用しています。
 
 **Powered by [Stability AI](https://stability.ai)**
